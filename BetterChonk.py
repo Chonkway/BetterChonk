@@ -30,4 +30,4 @@ async def on_message(message):
     if '208645171145998336' in message.content:
         await message.channel.send("Don't ping Davis, he's getting his beauty rest.")
 
-client.run('NTgzMDA5OTU4MzgwMTc1MzYy.XO7_Hw.-DPazNWmuagB0VcfHei-dGslEPM')
+client.run('BOT_TOKEN')
